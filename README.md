@@ -1,2 +1,3 @@
 # steve
-Lean skills hub + playground
+
+Major front-end project
